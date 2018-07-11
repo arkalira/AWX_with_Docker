@@ -22,7 +22,7 @@ apt update && apt-get install docker-ce
 
 ```
 apt install python-pip
-pip install ansible docker-py
+pip install ansible docker
 ```
 
 ## Ansible AWX Install
